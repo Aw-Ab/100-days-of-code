@@ -1,0 +1,1 @@
+A code which extracts a colors from a jpg file and recreate it as a drow using Turtle library
